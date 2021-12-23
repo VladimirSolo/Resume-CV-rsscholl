@@ -1,1 +1,1 @@
-# https://VladimirSolo.github.io/Resume-CV-rsscholl/
+https://VladimirSolo.github.io/Resume-CV-rsscholl/
