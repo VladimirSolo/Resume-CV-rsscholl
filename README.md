@@ -1,1 +1,1 @@
-https://VladimirSolo.github.io/Resume-CV-rsscholl/
+https://resume-cv-vladimir-solo.netlify.app/
